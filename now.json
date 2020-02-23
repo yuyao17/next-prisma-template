@@ -1,0 +1,10 @@
+{
+  "env": {
+    "PG_URL": "@pg-url"
+  },
+  "build": {
+    "env": {
+      "PG_URL": "@pg-url"
+    }
+  }
+}
